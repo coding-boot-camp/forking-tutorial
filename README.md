@@ -6,4 +6,4 @@ Forking a repository makes an exact copy another project that resides on your pe
 
 ## Changelog
 
-- Added this line to README.md
+-  Added this line to README.md
