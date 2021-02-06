@@ -1,5 +1,5 @@
 # forking-tutorial🍴
-This is JOHN DRENTH's version!!
+This is MYYY version!!
 
 This repo is used as a demo for the in-class git fork guide
 
