@@ -6,3 +6,6 @@ Forking a repository makes an exact copy another project that resides on your pe
 
 ## Example Change
 This is an example of a change made from the original content of the forked material.
+
+## Example 2
+Here is another example since I can't fucking read.
