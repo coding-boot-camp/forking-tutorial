@@ -1,0 +1,19 @@
+{
+  "name": "forking-tutorial",
+  "version": "1.0.0",
+  "description": "This repo is used as a demo for the in-class git fork guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leifehetland/forking-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leifehetland/forking-tutorial/issues"
+  },
+  "homepage": "https://github.com/leifehetland/forking-tutorial#readme"
+}
