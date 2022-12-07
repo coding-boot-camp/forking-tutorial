@@ -1,4 +1,5 @@
-# forking-tutorial🍴
+# A forking-tutorial🍴 
+Forks and knives are always helpful when developing a nice meal
 This repo is used as a demo for the in-class git fork guide
 
 ## About forks
