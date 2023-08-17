@@ -1,9 +1,3 @@
-First Name: Hamza Ahmed
-
-Location: Earth
-
-Certification: Meta Front End Developer
-
 Crimson
 Orange
 Blue
